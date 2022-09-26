@@ -16,6 +16,7 @@ body {
 .add {
     position: fixed;
     top: 1rem;
+    color: #fff;
     right: 1rem;
     background-color: #9ec862;
     border: none;
